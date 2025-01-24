@@ -9,6 +9,8 @@ import (
 
 // 标准库积累
 // strings.EqualFold(s, t) 不区分大小写的字符串比较
+// strings.ToLower(s) 将字符串转换为小写
+// strings.ToUpper(s) 将字符串转换为大写
 func HJ2() {
 	reader := bufio.NewReader(os.Stdin)
 

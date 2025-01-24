@@ -18,5 +18,5 @@ import "main/mytest"
 //		fmt.Println(total)
 //	}
 func main() {
-	mytest.HJ4()
+	mytest.HJ5()
 }

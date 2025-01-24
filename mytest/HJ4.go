@@ -7,6 +7,8 @@ import (
 	"strings"
 )
 
+// 库函数积累
+// strings.Repeat(s, n) 重复字符串
 func HJ4() {
 	// 使用 bufio 读取输入
 	reader := bufio.NewReader(os.Stdin)
